@@ -1,0 +1,7 @@
+{
+  "name": "RealTimeVisualizer",
+  "description": "A nodejs application for presentation of real time data",
+  "repository": "git@github.com:jrogde/RealTimeVisualizer.git",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
